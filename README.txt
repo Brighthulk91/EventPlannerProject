@@ -9,3 +9,5 @@ Event Planner - README
 7. Use Register to create Manager and Guest accounts.
 8. Manager: Create events, send invitations, upload gallery.
 9. Guest: Search events, book and pay (simulated).
+
+CREATE FILES AND PICTURES ACCORDING TO YOUR WISH FOR STYLE CSS
